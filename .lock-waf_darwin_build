@@ -1,0 +1,8 @@
+argv = ['/Users/dingebretsen/Dropbox/Development/Pebble/PebbleSDK-2.0.0/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': '4B116F81-E463-4734-9491-4179803BDC64', 'SSH_AUTH_SOCK': '/tmp/launch-0fWbKe/Listeners', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'dingebretsen', 'USER': 'dingebretsen', 'HOME': '/Users/dingebretsen', 'PATH': '/Users/dingebretsen/Dropbox/Development/Pebble/PebbleSDK-2.0.0/arm-cs-tools/bin:/Users/dingebretsen/Dropbox/Development/Pebble/PebbleSDK-2.0.0/bin:~Dropbox/Development/Pebble/PebbleSDK-2.0.0/bin:~Dropbox/Development/Pebble/PebbleSDK-2.0.0/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin', 'TMPDIR': '/var/folders/4t/f8wdm4yj4f9480v47g1q44yhl9s3jp/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-U9R605/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', '__CF_USER_TEXT_ENCODING': '0x269C8E36:0:0', 'PWD': '/Users/dingebretsen/Dropbox/Development/Pebble/Vera', '_': '/Users/dingebretsen/Dropbox/Development/Pebble/PebbleSDK-2.0.0/Pebble/waf', '__CHECKFIX1436934': '1'}
+files = ['/Users/dingebretsen/Dropbox/Development/Pebble/Vera/wscript']
+hash = 4672844372416070989
+options = {'files': '', 'jobs': 8, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/dingebretsen/Dropbox/Development/Pebble/Vera/build'
+run_dir = '/Users/dingebretsen/Dropbox/Development/Pebble/Vera'
+top_dir = '/Users/dingebretsen/Dropbox/Development/Pebble/Vera'

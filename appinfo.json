@@ -1,0 +1,23 @@
+{
+  "uuid": "0771fbab-b9fd-4591-8f64-b853b5050f62",
+  "shortName": "Vera Scenes",
+  "longName": "Vera Scenes",
+  "companyName": "People Tech",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "capabilities": ["configurable"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+    	{
+			"type": "png",
+			"name": "IMAGE_MENU_ICON_1",
+			"file": "images/menu_icon_vera.png",
+			"menuIcon": true
+		}
+    ]
+  }
+}
